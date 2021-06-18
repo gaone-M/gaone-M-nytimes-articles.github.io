@@ -14,9 +14,7 @@ responsive web app with ReactJs to hit the NY Times Most Popular Articles API an
 
 1. Build in `reactjs`
 2. Styled with `tailwindcss` because classnames are hard to come up with.
-3. Still in development so there is no live demo.
-4. Uses `axios` to fetch data because it is more secure than the fetch API.
-5. `momentjs` to format the dates on the articles.
+3. Uses `articleapi` to fetch data because it is more secure than the fetch API.
 
 ### Optional
 
@@ -27,7 +25,9 @@ More information will be added as the application continues to come together.
 
 ## Features
 
-1. Search form to search for articles
+1. Navigation
+2. Post Cards
+3.  singlepost details
 
 ## How to run
 
